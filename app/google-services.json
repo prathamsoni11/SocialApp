@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "129096717810",
+    "firebase_url": "https://social-app-f1661-default-rtdb.firebaseio.com",
+    "project_id": "social-app-f1661",
+    "storage_bucket": "social-app-f1661.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129096717810:android:9a63a24a7fb870418d076b",
+        "android_client_info": {
+          "package_name": "com.example.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129096717810-4ksqdg5ufgp0bqtkl5oc9m7drr09t7lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEGBis3lmsfiprSGy7KDND3m7WAK8qbfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129096717810-4ksqdg5ufgp0bqtkl5oc9m7drr09t7lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
